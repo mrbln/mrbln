@@ -21,11 +21,13 @@
 <h2 align="center"></h2>
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <img style="max-width: 50%;" alt="Emre's github top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbln&layout=compact&theme=tokyonight"/>
-  <a href="https://github.com/mrbln/">
-    <img style="max-width: 50%;" alt="Emre's github stats" src="https://github-readme-stats.vercel.app/api?username=mrbln&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Emre's github top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbln&layout=compact&theme=tokyonight"/>
+  <a align="right" href="https://github.com/mrbln/">
+    <img  alt="Emre's github stats" src="https://github-readme-stats.vercel.app/api?username=mrbln&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
 </div>
+
+
 
 <h2 align="center"></h2>
 
