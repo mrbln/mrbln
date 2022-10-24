@@ -21,7 +21,7 @@
 <h2 align="center"></h2>
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <img width="30%" alt="Emre's github top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbln&layout=compact&theme=tokyonight"/>
+  <img width="50%" alt="Emre's github top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbln&layout=compact&theme=tokyonight"/>
   <a width="30%" href="https://github.com/mrbln/">
     <img alt="Emre's github stats" src="https://github-readme-stats.vercel.app/api?username=mrbln&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
